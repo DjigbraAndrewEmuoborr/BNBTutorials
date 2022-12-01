@@ -1,0 +1,637 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  font-weight: bold;
+  font-size: 2.1rem;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.p-29bnb {
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+  font-size: 0.8rem;
+  text-align: center;
+  margin-top: 3px;
+}
+
+.Img-Container-BinanceBackground {
+  width: 90vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+figcaption {
+  margin-bottom: 3px;
+  color: var;
+}
+
+.p-MillionDollar-profit-factory {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: var(--BinanceColor);
+}
+
+.p-MoreHedgeBets,
+.p-ChangedSignificantly,
+.p-NumerousSport {
+  line-height: 30px;
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
+
+.img-container-Binance2 {
+  width: 80vw;
+  margin-bottom: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.p-BinanceCoin {
+  color: var(--BinanceColor);
+  margin-bottom: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+.li-P-PaymentMethod,
+.li-P-launchedBnb {
+  line-height: 30px;
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+  margin-left: 25px;
+}
+
+.img-container-binance5 {
+  width: 78vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.p-WhatisArbitrage {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 1.3rem;
+  text-align: center;
+}
+
+.p-WhatisArbitrage-CONTAINER {
+  background-color: var(--BinanceColor);
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.Video-container {
+  /* max-width: 100vw; */
+  /* width: 100px; */
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  /* width: 500px; */
+}
+
+/* MQ for all Videos */
+
+@media screen and (min-width: 410px) {
+  .videoMq {
+    width: 370px;
+  }
+}
+
+@media screen and (min-width: 575px) {
+  .videoMq {
+    width: 420px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .videoMq {
+    width: 710px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .videoMq {
+    width: 800px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .videoMq {
+    width: 1000px;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .videoMq {
+    width: 1200px;
+  }
+}
+
+/* MQ for all Videos End */
+
+.img-container-binance7 {
+  width: 78vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+}
+
+.p-riskfree {
+  line-height: 30px;
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
+
+.img-container-binance8 {
+  width: 78vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.p-Buyandsell-between2market {
+  line-height: 30px;
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
+
+.container-p-lets-start {
+  background-color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
+  margin-bottom: 25px;
+}
+
+.p-lets-start {
+  font-size: 1.9rem;
+  color: white;
+  text-align: center;
+}
+
+.p-toReceiveBNB {
+  line-height: 30px;
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
+
+.p-AtomicExample {
+  font-size: 1.4rem;
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+
+.a-trustWallet,
+.a-ZengoWallet,
+.a-atomic {
+  color: var(--BinanceColor);
+  font-size: 1.2rem;
+  line-height: 35px;
+  margin-right: 15px;
+}
+
+.img-container-binance9 {
+  width: 78vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+}
+.p-container-addandcreat {
+  margin-bottom: 10px;
+}
+.p-container-addandcreat p {
+  font-size: 1.4rem;
+}
+
+.pp-Addcoins {
+  margin-bottom: 15px;
+}
+
+.img-container-binance10 {
+  width: 78vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.p-FindBNB-Coins {
+  font-size: 1.4rem;
+}
+
+.img-container-binance11 {
+  width: 78vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.img-container-binance12 {
+  width: 78vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.p-nowYouSEe-BNB {
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
+
+.img-container-binance13 {
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
+
+.p-afterAdding-BNB {
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+  margin-left: 10px;
+  font-weight: bold;
+}
+
+.container-for-SmartContract-Site {
+  border-left: 4px solid black;
+  margin-left: 5px;
+  padding-left: 30px;
+}
+
+.p-for-SmartContract-Site {
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
+
+.img-container-binance15 {
+  width: 78vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.p-pleasenote-SmartContract {
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
+
+.p-checkPrice-Coinmarket {
+  font-size: 1rem;
+  text-align: center;
+  margin-bottom: 25px;
+}
+.li-SmartConttract-ssm {
+  margin-bottom: 10px;
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+.ETHWallet-SmartContract {
+  margin-bottom: 20px;
+  font-size: 0.7rem;
+  text-align: center;
+}
+
+.img-container-binance16 {
+  width: 78vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.p-AfterDeducting {
+  line-height: 30px;
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
+
+.p-profitsETH {
+  line-height: 30px;
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
+
+.p-PresentBNB {
+  line-height: 30px;
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
+
+.li-SellBNBonBinance {
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+  margin-left: 33px;
+  font-weight: bold;
+}
+
+.p-OfficialBinanceWebsite {
+  line-height: 30px;
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
+
+.p-skipRegistering {
+  line-height: 30px;
+  margin-bottom: 30px;
+  font-size: 1.4rem;
+}
+
+.Binance2site-link {
+  color: var(--BinanceColor);
+}
+
+.p-ClickWallet-atomic {
+  margin-bottom: 30px;
+  font-size: 1.4rem;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 9px;
+}
+
+.img-container-binance18 {
+  width: 78vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.img-container-binance19 {
+  width: 78vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.p-ClickonDepostiAtomic {
+  margin-bottom: 30px;
+  font-size: 1.4rem;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 9px;
+}
+
+.SendyourBnbtoAtomic {
+  margin-bottom: 30px;
+  font-size: 1.4rem;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 5px;
+}
+
+.p-TransactionTransfer {
+  margin-bottom: 30px;
+  font-size: 1.4rem;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 9px;
+}
+
+.img-container-binance21 {
+  width: 78vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.img-container-binance22 {
+  width: 78vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.p-NowExchangeYourBnb {
+  margin-bottom: 35px;
+  font-size: 1.4rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.BestPlacesToBuyBitcoin {
+  background-color: var(--BinanceColor);
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  /* justify-content: center;
+  justify-items: center;
+  margin-left: auto;
+  margin-right: auto; */
+  display: block;
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+}
+
+.ul-bestplacestobuybtc {
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+
+.ul-bestplacestobuybtc li {
+  margin-left: 17px;
+  font-size: 1.3rem;
+}
+
+.p-howtoregisteronBinance {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.4rem;
+  background-color: black;
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.Ol-registeronBinance li {
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+  margin-left: 33px;
+  font-weight: bold;
+}
+
+.p-EvenThough-no-KYC {
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+  line-height: 30px;
+}
+
+.img-container-binance23 {
+  width: 78vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 23px;
+}
+
+.ul-SelectCreditDebitCard li {
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+  line-height: 30px;
+  margin-left: 21px;
+}
+
+.img-container-binance-26,
+.img-container-binance-27,
+.img-container-binance-28 {
+  width: 78vw;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.p-AfterCompletingverififaction {
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+  line-height: 30px;
+}
+
+.p-withdrawJustPurchasedETH {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.4rem;
+  background-color: black;
+  color: white;
+  margin-top: 15px;
+}
+
+.p-SelectWallt-fiat {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
+
+.p-clickCopyandPasteEth {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
+
+.p-toSeeEthAtomic-wallet {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
+
+.img-container-binance29,
+.img-container-binance30,
+.img-container-binance31 {
+  width: 78vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.p-LetSummarize {
+  background-color: var(--BinanceColor);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 1.5rem;
+  margin-top: 65px;
+}
+
+.P-container-summarize {
+  background-color: black;
+  margin-bottom: 30px;
+}
+
+.P-summarize-p {
+  color: white;
+  text-align: center;
+  font-size: 1.3rem;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.img-container-binance33,
+.img-container-binance34,
+.img-container-binance35 {
+  width: 78vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-container-binance35 {
+  margin-top: 20px;
+}
+
+.p-pleasenote {
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+  line-height: 30px;
+}
+
+.p-SmartOfffcialWeb {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-top: 25px;
+  margin-bottom: 5px;
+}
+
+.p-YouReceiveBnB20minute {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 1.4rem;
+}
+
+.img-container-binance37 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.P-container-CryptoArbitragisaRocket,
+.p-profits729,
+.p-nowyoucanSEndToken {
+  font-size: 1.4rem;
+  line-height: 30px;
+}
+
+.P-container-CryptoArbitragisaRocket {
+  margin-top: 30px;
+  border-top: 1px solid gray;
+  padding-top: 8px;
+  margin-bottom: 45px;
+}
+
+.pp-CryptoWallet-footer {
+  margin-left: 3px;
+  margin-bottom: 7px;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+.Container-pp-CryptoWallet-footer a {
+  color: var(--BinanceColor);
+  font-size: 1.1rem;
+  line-height: 30px;
+}
+
+.container-Exchange-BinanceorBinanceUs a {
+  color: var(--BinanceColor);
+  font-size: 1.2rem;
+  line-height: 32px;
+}
+
+.container-Exchange-BinanceorBinanceUs p {
+  margin-left: 3px;
+  margin-bottom: 7px;
+  font-weight: bold;
+  font-size: 1.3rem;
+  margin-top: 15px;
+}
+
+.Container-Forbes p {
+  margin-left: 3px;
+  margin-bottom: 7px;
+  font-weight: bold;
+  font-size: 1.3rem;
+  margin-top: 15px;
+}
+
+.Container-Forbes a {
+  color: var(--BinanceColor);
+  font-size: 0.7rem;
+}

@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  /* padding: 20px; */
+  padding-right: 7px;
+  padding-left: 7px;
+  padding-bottom: 10px;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+:root {
+  --BinanceColor: rgb(240, 185, 11);
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
